@@ -1,0 +1,164 @@
+{"frames": {
+
+"2_entity_000_ATTACK_000.png":
+{
+	"frame": {"x":913,"y":840,"w":687,"h":834},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":157,"y":256,"w":687,"h":834},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_ATTACK_001.png":
+{
+	"frame": {"x":915,"y":1,"w":798,"h":834},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":154,"y":256,"w":798,"h":834},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_ATTACK_002.png":
+{
+	"frame": {"x":1,"y":2510,"w":890,"h":835},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":151,"y":256,"w":890,"h":835},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_ATTACK_003.png":
+{
+	"frame": {"x":1,"y":840,"w":910,"h":836},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":256,"w":910,"h":836},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_ATTACK_004.png":
+{
+	"frame": {"x":1,"y":1,"w":912,"h":837},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":144,"y":256,"w":912,"h":837},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_DIE_000.png":
+{
+	"frame": {"x":1,"y":5019,"w":870,"h":832},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":154,"y":248,"w":870,"h":832},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_DIE_001.png":
+{
+	"frame": {"x":1,"y":4183,"w":879,"h":834},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":164,"y":251,"w":879,"h":834},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_DIE_002.png":
+{
+	"frame": {"x":1,"y":3347,"w":891,"h":834},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":256,"w":891,"h":834},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_DIE_003.png":
+{
+	"frame": {"x":1,"y":1678,"w":908,"h":830},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":201,"y":267,"w":908,"h":830},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_DIE_004.png":
+{
+	"frame": {"x":829,"y":7134,"w":894,"h":783},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":279,"y":328,"w":894,"h":783},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_DIE_005.png":
+{
+	"frame": {"x":882,"y":4824,"w":850,"h":616},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":327,"y":495,"w":850,"h":616},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_DIE_006.png":
+{
+	"frame": {"x":893,"y":2524,"w":833,"h":604},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":348,"y":599,"w":833,"h":604},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_IDLE_000.png":
+{
+	"frame": {"x":911,"y":1678,"w":822,"h":844},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":165,"y":246,"w":822,"h":844},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_IDLE_001.png":
+{
+	"frame": {"x":873,"y":5442,"w":823,"h":844},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":165,"y":246,"w":823,"h":844},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_IDLE_002.png":
+{
+	"frame": {"x":894,"y":3130,"w":825,"h":845},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":165,"y":245,"w":825,"h":845},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_IDLE_003.png":
+{
+	"frame": {"x":1,"y":5853,"w":826,"h":845},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":165,"y":245,"w":826,"h":845},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_IDLE_004.png":
+{
+	"frame": {"x":1,"y":6700,"w":826,"h":845},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":165,"y":245,"w":826,"h":845},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_IDLE_005.png":
+{
+	"frame": {"x":894,"y":3977,"w":825,"h":845},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":165,"y":245,"w":825,"h":845},
+	"sourceSize": {"w":1421,"h":1203}
+},
+"2_entity_000_IDLE_006.png":
+{
+	"frame": {"x":829,"y":6288,"w":823,"h":844},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":165,"y":246,"w":823,"h":844},
+	"sourceSize": {"w":1421,"h":1203}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "inimigo.png",
+	"format": "RGBA8888",
+	"size": {"w":1734,"h":7918},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4190f1113b476f89deae4d1196c2479c:373c2cc24fb8d6cdaa33aca347b1dabc:11b9190f6616ded52ad10acf23901af8$"
+}
+}
